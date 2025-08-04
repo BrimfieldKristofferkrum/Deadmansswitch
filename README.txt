@@ -49,4 +49,4 @@ config.json                 -> Contains:
 
 Stay safe.
 
-Can also run as EXE!!
+Can also run as EXE!! exe is more polished 

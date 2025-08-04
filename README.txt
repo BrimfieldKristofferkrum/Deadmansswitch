@@ -48,3 +48,5 @@ config.json                 -> Contains:
 - Files are uploaded to your GitHub repo on trigger or manual execution.
 
 Stay safe.
+
+Can also run as EXE!!
